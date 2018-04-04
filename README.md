@@ -13,15 +13,19 @@ If you want know more about it, you can reference [AC-QRCode-RN](https://github.
 
 ## 3.Installation
 ```
-// first step
-npm install ac-qrcode --save
+1. npm install react-native-camera
 
-// second step
-react-native link react-native-camera
+2. react-native link react-native-camera
+
+3. npm install prop-types
+
 ```
+then copy QRScanner.js to your project , import  the * QRScannerView *  component to where you need .
+
+
 ## 4.Basic Usage
 ```
-import { QRScannerView } from 'ac-qrcode';
+import { QRScannerView } from 'QRScanner';   // the path of the JavaScript file could be different
 
 export default class DefaultScreen extends Component {
     render() {
