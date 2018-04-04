@@ -9,7 +9,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/ztMalone/react-native-qrcode-scanner.git"
+      "url": "git+https://ztMalone@github.com/ztMalone/react-native-qrcode-scanner.git"
     },
     "dependencies": {
         "react-native-camera": "^1.0.3",
