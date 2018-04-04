@@ -1,6 +1,8 @@
 ## 1.Guide
 This is a fork of [AC-QRCode-RN](https://github.com/MarnoDev/AC-QRCode-RN) , which is a useful QR code scanner component for React Native built on top of [react-native-camera](https://github.com/lwansbrough/react-native-camera) . But there are some bugs with React Native 0.50.0+ , and I have fixed it .
 
+If you want know more about it, you can reference [AC-QRCode-RN](https://github.com/MarnoDev/AC-QRCode-RN) for details.
+
 
 ## 2.Features
 
@@ -59,7 +61,7 @@ export default class DefaultScreen extends Component {
 ```
 ## 5.Props
 
-![](https://github.com/ztMalone/react-native-qrcode-scanner/blob/master/screenshots/ac-qrcode-props.jpg)
+![](https://github.com/ztMalone/react-native-qrcode-scanner/blob/master/screenshots/qrcode-scanner-props.jpg)
 
 |Prop|Type|Default|Optional|
 |:--:|:--:|:--:|:--:|
