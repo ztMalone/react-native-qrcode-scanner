@@ -20,8 +20,10 @@ If you want know more about it, you can reference [AC-QRCode-RN](https://github.
 3. npm install prop-types
 
 ```
-then copy QRScanner.js to your project , import  the * QRScannerView *  component to where you need .
 
+Then copy QRScanner.js to your project , import  the ` QRScannerView ` component to where you need .
+
+You should read the article about how to link ` react-native-camera ` manually if you can not run the command ` react-native link react-native-camera ` successful in the step 2.
 
 ## 4.Basic Usage
 ```
